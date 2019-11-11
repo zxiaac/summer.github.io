@@ -148,6 +148,11 @@ a {
 	background-color:rgba(0,0,0,0.6);
 	margin:5%,5%,5%,5%;
 }
+.project3 {
+	width:100%;
+	background-color:rgba(0,0,0,0.6);
+	margin:5%,5%,5%,5%;
+}
 
 .tm-link:link,
 .tm-link:visited {
@@ -206,6 +211,15 @@ footer {
 }
 
 .tm-gallery-2-item {
+  margin: 0 10px;
+}
+
+.tm-gallery-3 {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.tm-gallery-3-item {
   margin: 0 10px;
 }
 
@@ -379,7 +393,7 @@ figure.effect-goliath:hover p {
 }
 
 /* Contact */
-.tm-section-4 {
+.tm-section-5 {
   width: 100%;
   max-width: 400px;
   margin-left: 40px;
